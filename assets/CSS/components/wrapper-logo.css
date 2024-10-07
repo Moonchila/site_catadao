@@ -1,0 +1,9 @@
+.wrapper-logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.wrapper-logo .titles{
+    display: block;
+}
